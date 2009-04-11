@@ -1,0 +1,11 @@
+# OS X cruft
+.DS_Store
+
+# Xcode cruft
+build/*
+*.pbxuser
+*.mode1v3
+
+# Subversion
+.svn
+
