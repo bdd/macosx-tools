@@ -8,7 +8,7 @@ Directory hierarchy of this repository is always mutating.
 
 ## Tools ##
 
-### ActivateScreenSaver.scp ###
+### ActivateScreenSaver.scpt ###
 A one liner AppleScript to launch screen saver.
 
 Set your screen saver password and use this script as a HotKey trigger via Quicksilver to lock your screen.
