@@ -3,7 +3,6 @@
 # Let's be defensive. This tool may have sharp corners.
 set -o nounset
 set -o errexit
-set -x
 
 REMOTE='http://build.chromium.org/buildbot/snapshots/chromium-rel-mac'
 
