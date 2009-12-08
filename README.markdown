@@ -26,6 +26,13 @@ A Foundation Tool implemented in Objective-C. You will need Xcode to build.
 
 Ideal for saving battery when bluetooth connection is not needed. Created to be used as a HotKey trigger via Quicksilver.
 
+
+### update_chromium.sh ###
+Check the latest Chromium snapshot build and update local installation.
+Will ask if you want to kill already running Chromium before updating and launch back after update.
+
+Corners of this tool is still sharp. USE AT YOUR OWN RISK!
+
 ## Licensing ##
 All software in this repository is available under BSD license unless stated otherwise.
 
