@@ -27,8 +27,15 @@ A Foundation Tool implemented in Objective-C. You will need Xcode to build.
 Ideal for saving battery when bluetooth connection is not needed. Created to be used as a HotKey trigger via Quicksilver.
 
 
+### git_current_branch.sh ###
+Print current git branch for $CWD if it's a part of git repository.
+
+Bash function to be included from shell rc files to decorate PS1 with useful info.
+
+
 ### update_chromium.sh ###
 Check the latest Chromium snapshot build and update local installation.
+
 Will ask if you want to kill already running Chromium before updating and launch back after update.
 
 Corners of this tool is still sharp. USE AT YOUR OWN RISK!
